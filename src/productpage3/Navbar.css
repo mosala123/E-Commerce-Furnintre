@@ -1,0 +1,22 @@
+يمكن إضافة تخصيصات إضافية هنا إذا لزم الأمر
+.navbar {
+    padding: 10px 20px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    margin-right: 20px;
+}
+
+.form-inline {
+    display: flex;
+    align-items: center;
+}
+
+.form-inline .btn {
+    margin-right: 10px;
+}
